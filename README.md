@@ -63,17 +63,6 @@ The Virtual Mouse system uses a webcam and microphone to detect **hand gestures*
 
 ---
 
-## 🖼️ Screenshots
-
-> Include output images in a folder `screenshots/` and reference them like this:
-
-### Gesture Control Demo
-![Gesture Control](screenshots/gesture_control.png)
-
-### Voice Control Demo
-![Voice Assistant](screenshots/voice_assistant.png)
-
----
 
 ## ⚙️ Requirements
 
